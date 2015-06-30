@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\bin\Debug\Segment2.exe.config
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\bin\Debug\Segment2.exe
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\bin\Debug\Segment2.pdb
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\obj\Debug\Segment2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\obj\Debug\Segment2.exe
+C:\Users\Administrator\Desktop\Projects\Segment2\Segment2\obj\Debug\Segment2.pdb
